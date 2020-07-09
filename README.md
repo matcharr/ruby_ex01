@@ -1,1 +1,1 @@
-# ruby_ex02
+# ruby_ex01
